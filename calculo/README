@@ -1,0 +1,20 @@
+# Cálculo Rápido
+
+Este é um programa de computador que determina quantos números no intervalo [A, B] têm a soma de seus dígitos igual a S.
+
+## Entrada
+
+A entrada consiste em três números inteiros separados por espaços:
+
+1. Um número inteiro S, que é o valor desejado da soma dos dígitos.
+2. Um número inteiro A, o limite inferior do intervalo.
+3. Um número inteiro B, o limite superior do intervalo.
+
+Neste exemplo, estamos procurando por números no intervalo de 100 a 200 cuja soma dos dígitos seja igual a 15.
+
+
+## Saída
+
+O programa produz uma única linha contendo um único inteiro, que representa quantos números no intervalo dado têm a soma de dígitos indicada.
+
+Isso significa que há 20 números no intervalo de 100 a 200 cuja soma dos dígitos é igual a 15.

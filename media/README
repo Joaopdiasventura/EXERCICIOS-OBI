@@ -1,0 +1,18 @@
+# Média ou mediana
+
+A média de três números inteiros A, B e C é calculada como (A + B + C)/3. A mediana de três números inteiros é o número que ficaria no meio se os três números fossem ordenados em ordem não-decrescente.
+
+Sua tarefa é escrever um programa que, dados dois números inteiros distintos A e B, calcule o menor inteiro possível C tal que a média e a mediana de A, B e C sejam iguais.
+
+## Entrada
+
+A entrada consiste em uma única linha contendo dois números inteiros A e B, onde \( A \) e \( B \) são distintos.
+
+Neste exemplo, \( A = 10 \) e \( B = 6 \).
+
+## Saída
+
+Seu programa deve produzir uma única linha, contendo um único número inteiro, o menor inteiro possível \( C \) tal que a média e a mediana de \( A \), \( B \) e \( C \) sejam iguais.
+
+
+Isso significa que o menor inteiro possível \( C \) para que a média e a mediana de \( A = 3 \), \( B = 6 \) e \( C = 2 \) sejam iguais é 2.
